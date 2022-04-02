@@ -1,37 +1,38 @@
 ## مستندات فارسی فرم ساز آسان
 
-You can use the [editor on GitHub](https://github.com/hassantafreshi/document-farsi-easy-form-builder/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+فرم ساز آسان یک فرم ساز کاربر پسند است که به شما امکان ساخت فرم‌ها حرفه‌ای چند گامی طی 1 دقیقه می دهد.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+برای استفاده از فرم ساز آسان نیاز به داشتن مهارت کد نویسی ندارید . به سادگی با کشیدن و رها کردن موارد مورد نظر به آسانی و بدون محدودیت فرم های چند گامی بسازید. ویژگی کد پیگیری به شما اجازه می دهد به راحتی با ثبت کنندگان درخواست بصورت جداگانه در تماس باشید.
 
-### Markdown
+افزونه وردپرس فرم ساز آسان به زبان های انگلیسی , فارسی , عربی در دسترس می باشد و زبان های هندی , آلمانی , هلندی , دانمارکی توسط دوست داران وردپرس در حال ترجمه می باشد. همچنین قابلیت بومی سازی فرم ساز آسان بصورت مستقیم در خود افزونه برای ترجمه یا تغییر عبارت وجود دارد. در صورت تمایل برای ترجمه فرم ساز آسان به زبان های دیگر می توانید از [از اینجا اقدام کنید](https://translate.wordpress.org/projects/wp-plugins/easy-form-builder/). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## دانلود افزونه فرم ساز آسان
 
-- Bulleted
-- List
+برای دانلود نسخه رایگان با آخرین بروز رسانی افزونه وردپرس فرم ساز آسان از طریق لینک های زیر اقدام کنید.
 
-1. Numbered
-2. List
+[دانلود فرم ساز آسان از گیت هاب](https://github.com/hassantafreshi/easy-form-builder/archive/refs/heads/v2.zip) 
 
-**Bold** and _Italic_ and `Code` text
+[دانلود فرم ساز آسان از وردپرس](https://fa.wordpress.org/plugins/easy-form-builder/) 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## روش نصب فرم ساز آسان
 
-### Jekyll Themes
+برای مطالعه روش نصب فرم ساز آسان [اینجا را کلیک کنید](https://fa.wordpress.org/plugins/easy-form-builder/#installation) .
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hassantafreshi/document-farsi-easy-form-builder/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## مستندات آموزش استفاده فرم ساز آسان
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+داکیومنت های زیر برای  افزونه وردپرس فرم ساز آسان تهیه شده است تا سوالاتی که ممکن است برای کاربران پیش آید را پاسخ بدهند.
+[لینک به صفحه ویکی آموزش فرم ساز آسان](https://github.com/hassantafreshi/document-farsi-easy-form-builder/wiki) 
+
+
+
+
+
+
+
+
+
+
